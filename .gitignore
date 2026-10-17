@@ -1,0 +1,17 @@
+# Dataset
+updated_modified_alluser_norm_mean_normalized_allfeatures.csv
+
+# Retraining outputs
+retrain_csvs/
+retrain_plots/
+
+# Python / environment
+.venv/
+__pycache__/
+*.pyc
+
+# Tooling
+.impeccable/
+.remember/
+supertool
+.supertool.json
